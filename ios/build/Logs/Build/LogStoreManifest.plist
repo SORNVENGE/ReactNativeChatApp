@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>4B85A560-4EFD-4413-9F1C-CBD836E00749</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4B85A560-4EFD-4413-9F1C-CBD836E00749.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactFirebaseRealTimeDatabase project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactFirebaseRealTimeDatabase</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactFirebaseRealTimeDatabase with scheme ReactFirebaseRealTimeDatabase and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565781019.94556105</real>
+			<key>timeStoppedRecording</key>
+			<real>565781032.21820903</real>
+			<key>title</key>
+			<string>Building project ReactFirebaseRealTimeDatabase with scheme ReactFirebaseRealTimeDatabase and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4B85A560-4EFD-4413-9F1C-CBD836E00749</string>
+		</dict>
+		<key>F8ED73D5-B839-4397-A3BE-1654A768253D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F8ED73D5-B839-4397-A3BE-1654A768253D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactFirebaseRealTimeDatabase project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactFirebaseRealTimeDatabase</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactFirebaseRealTimeDatabase with scheme ReactFirebaseRealTimeDatabase and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565779276.617733</real>
+			<key>timeStoppedRecording</key>
+			<real>565779295.80977905</real>
+			<key>title</key>
+			<string>Building project ReactFirebaseRealTimeDatabase with scheme ReactFirebaseRealTimeDatabase and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F8ED73D5-B839-4397-A3BE-1654A768253D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

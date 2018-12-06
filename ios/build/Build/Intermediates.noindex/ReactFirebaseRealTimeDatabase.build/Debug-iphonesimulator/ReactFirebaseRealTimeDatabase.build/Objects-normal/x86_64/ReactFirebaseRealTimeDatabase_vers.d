@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/kshrd_pp_04/Desktop/ReactFirebaseRealTimeDatabase/ios/build/Build/Intermediates.noindex/ReactFirebaseRealTimeDatabase.build/Debug-iphonesimulator/ReactFirebaseRealTimeDatabase.build/DerivedSources/ReactFirebaseRealTimeDatabase_vers.c
